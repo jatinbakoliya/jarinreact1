@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jarinreact1/tree/master/static/css/main.d4c8ed8b.css",
+    "main.js": "/jarinreact1/tree/master/static/js/main.e220e576.js",
+    "static/js/453.ed3810f9.chunk.js": "/jarinreact1/tree/master/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/jarinreact1/tree/master/index.html",
+    "main.d4c8ed8b.css.map": "/jarinreact1/tree/master/static/css/main.d4c8ed8b.css.map",
+    "main.e220e576.js.map": "/jarinreact1/tree/master/static/js/main.e220e576.js.map",
+    "453.ed3810f9.chunk.js.map": "/jarinreact1/tree/master/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c8ed8b.css",
+    "static/js/main.e220e576.js"
+  ]
+}
